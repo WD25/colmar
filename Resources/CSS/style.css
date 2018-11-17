@@ -2,7 +2,7 @@
 	html {
 	  font-size: 16px;
 	  font-family: arial;
-    background-color:#e6f2ff;
+    background-color:#88BDBC;
 	}
 
 	section {
@@ -11,7 +11,7 @@
 	}
 
 	body section:nth-child(even) {
-	  background-color: #e6f2ff;
+	  background-color: #88BDBC;
 	}
 
 	h1  {
@@ -160,7 +160,7 @@
 	}
 
 	.banner-content a {
-	  background-color:#e6f2ff;
+	  background-color:#88BDBC;
 	  width: 100%;
 	  margin-right: 16px;
 	  text-align: center;
@@ -175,7 +175,7 @@
 	}
 
 	.banner-content a:hover {
-	  background-color: #adc2eb;
+	  background-color:#254E58;
 	  color: black;
 	}
 
@@ -262,11 +262,11 @@
 
 	.sidebar div:first-child {
 	  padding-top: 16px;
-	  background-color: #adc2eb;
+	  background-color:#254E58;
 	}
 
 	.sidebar div:nth-child(3n) {
-	  background-color: #adc2eb;
+	  background-color:#254E58;
 	}
 
 	.sidebar-block {
@@ -374,7 +374,7 @@
 
 	.course-holder {
 	  width: 380px;
-	  background-color: #adc2eb;
+	  background-color:#254E58;
 	  margin-right: 32px;
 	  margin-bottom: 16px;
 	}
@@ -450,7 +450,7 @@
 	  }
 
 	  .courses-mobile h6 {
-	    background-color:#e6f2ff;
+	    background-color:#88BDBC;
 	    padding: 16px 0px 16px 16px;
 	    margin-bottom: 8px;
 	  }
